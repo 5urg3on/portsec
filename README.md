@@ -7,7 +7,7 @@ Over the last six years, I have been in IT building various Web Applications tha
 
 ## Objective
 
-With a solid IT background in developing web applications and a growing passion for cybersecurity, I aim to excel as a SOC Analyst by enhancing security operations, managing incidents, and ensuring regulatory compliance effectively.
+With a solid IT background in developing web applications and a growing passion for cybersecurity which led me to complete the Google Cybersecurity Program, I aim to excel as a SOC Analyst by enhancing security operations, managing incidents, and ensuring regulatory compliance effectively.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
