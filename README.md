@@ -46,6 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wazuh-2D2D2D?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
+
 ### Web 
 <div>
     <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=WordPress&logoColor=white" />
@@ -53,6 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Joomla-0067B8?&style=for-the-badge&logo=Joomla&logoColor=white" />
     <img src="https://img.shields.io/badge/-Laravel-EF5B5B?&style=for-the-badge&logo=Laravel&logoColor=white" />
 </div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
