@@ -22,6 +22,9 @@ With a solid IT background in developing web applications and a growing passion 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python Programming and Automation | <a href="(https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)">Algorithm-for-file-updates-in-Python</a>|
+Algorithm-for-file-updates-in-Python
+
 
 ## Tools
 Here are some cybersecurity tools I'm proficient with:
