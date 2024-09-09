@@ -16,12 +16,13 @@ Here are key skills I've developed, showcased through projects I've worked on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+<!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
+| 24 SQL Query Optimization and Data Filtering | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a> |
 |27  Python Programming and Automation | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a> |
 
 
@@ -82,5 +83,6 @@ Here are some of the tools I'm proficient with:
 
 ## Projects
 - <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a>
-- Detection Lab
-- SOC Automation Project
+- <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a> |
+<!-- - Detection Lab
+- SOC Automation Project -->
