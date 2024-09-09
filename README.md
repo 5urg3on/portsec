@@ -22,11 +22,6 @@ Here are key skills I've developed, showcased through projects I've worked on.
 |  Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
 |  SQL Query Optimization and Data Filtering  | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a>|
 |Python Programming and Automation          | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a> |
-<!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
 
 
@@ -85,7 +80,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
   <a href="https://learn.microsoft.com/en-us/users/sylvesterbaruch-6835/achievements/w7gjdfgn  target="_blank">
   <img src="https://img.shields.io/badge/-GitHub_Advanced_Security-181717?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Advanced Security"/>
   </a>
-
+</div>
 <!--
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
