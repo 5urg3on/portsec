@@ -16,7 +16,7 @@ Here are key skills I've developed, showcased through projects I've worked on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 21 Incident Handling and Reporting | <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Phishing Incident Response and Alert Ticketing</a> |
+| 16 Incident Handling and Reporting | <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Phishing Incident Response and Alert Ticketing</a> |
 | Conducting Security Audit | <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Controls and compliance checklist</a> |
 | Incident Report Analysis | <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Incident report analysis</a> |
 |  Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
