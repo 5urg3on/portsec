@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Over the last six years, I have been in IT building various Web Applications that help solve different problems in Education Technology [Edutech], eCommerce, Real Estate, Migration, and other areas, I enjoy creating solutions that work and help the business and customer they serve, time management is one thing I don’t joke with because I make sure all project is delivered within time frame. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
