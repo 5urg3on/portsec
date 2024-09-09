@@ -12,7 +12,7 @@ Over the last six years, I have been in IT building various Web Applications tha
 With a solid IT background in developing web applications and a growing passion for cybersecurity, I aim to excel as a SOC Analyst. Leveraging the Google Cybersecurity Certificate Program, I am dedicated to protecting businesses and the people they serve by enhancing security operations, managing incidents, and ensuring regulatory compliance effectively
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Here are key skills I've developed, showcased through projects I've worked on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,7 +27,7 @@ With a solid IT background in developing web applications and a growing passion 
 
 
 ## Tools
-Here are some cybersecurity tools I'm proficient with:
+Here are some of the tools I'm proficient with:
 
 ### Network
 <div>
@@ -72,14 +72,15 @@ Here are some cybersecurity tools I'm proficient with:
 <div>
 <!-- Google Cybersecurity Certificate Program Badge -->
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-
+<!--
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+</div>-->
 
 ## Projects
+- <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a>
 - Detection Lab
 - SOC Automation Project
