@@ -40,11 +40,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Wazuh-2D2D2D?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
+</div>
+### Web 
+<div>
+    <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=WordPress&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Moodle-ff6f00?&style=for-the-badge&logo=Moodle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Joomla-0067B8?&style=for-the-badge&logo=Joomla&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Laravel-EF5B5B?&style=for-the-badge&logo=Laravel&logoColor=white" />
+</div>
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
