@@ -82,6 +82,7 @@ Here are some of the tools I'm proficient with:
 </div>-->
 
 ## Projects
+- File permissions in Linux: <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
 - Algorithm-for-file-updates-in-Python: <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
 - Apply filters to SQL queries: <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
 <!-- - Detection Lab
