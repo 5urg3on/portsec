@@ -69,7 +69,7 @@ Here are some of the tools I'm proficient with:
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+Here are the certifications I've earned, reflecting my commitment to advancing my expertise and staying current in the cybersecurity field.
 <div>
 <!-- Google Cybersecurity Certificate Program Badge -->
 <a href="https://www.credly.com/badges/ee63515e-1d58-4dfc-ad35-b1588e88d534/" target="_blank">
