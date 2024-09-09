@@ -52,18 +52,18 @@ Here are some of the tools I'm proficient with:
 
 </div>
 
+### Scripting Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
 ### Web 
 <div>
     <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=WordPress&logoColor=white" />
     <img src="https://img.shields.io/badge/-Moodle-ff6f00?&style=for-the-badge&logo=Moodle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Joomla-0067B8?&style=for-the-badge&logo=Joomla&logoColor=white" />
     <img src="https://img.shields.io/badge/-Laravel-EF5B5B?&style=for-the-badge&logo=Laravel&logoColor=white" />
-</div>
-
-### Scripting Languages
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
 
