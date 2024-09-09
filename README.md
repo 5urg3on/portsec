@@ -1,14 +1,13 @@
 # Hello, I'm Sylvester I. Baruch
 <a href="https://www.linkedin.com/in/sylvesterbaruch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Brief Introduction
 
 Over the last six years, I have been in IT building various Web Applications that help solve different problems in Education Technology [Edutech], eCommerce, Real Estate, Migration, and other areas, I enjoy creating solutions that work and help the business and customer they serve, time management is one thing I don’t joke with because I make sure all project is delivered within time frame. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a solid IT background in developing web applications and a growing passion for cybersecurity, I aim to excel as a SOC Analyst by enhancing security operations, managing incidents, and ensuring regulatory compliance effectively.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
