@@ -76,13 +76,13 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 <a href="https://www.linkedin.com/learning/certificates/0eba07fe98cd6d0ff0a0de5cc4b0341577c469ce9e0ea1d52cf16cc8313047c4" target="_blank">
   <img src="https://img.shields.io/badge/-Career_Essentials_in_Cybersecurity-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Career Essentials in Cybersecurity by Microsoft and LinkedIn"/>
 </a>
-<!-- GGitHub Advance Security -->
-  <a href="https://learn.microsoft.com/en-us/users/sylvesterbaruch-6835/achievements/w7gjdfgn  target="_blank">
+<!-- GitHub Advance Security -->
+  <a href="https://learn.microsoft.com/en-us/users/sylvesterbaruch-6835/achievements/w7gjdfgn"  target="_blank">
   <img src="https://img.shields.io/badge/-GitHub_Advanced_Security-181717?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Advanced Security"/>
   </a>
 </div>
-<!--
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+<!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
