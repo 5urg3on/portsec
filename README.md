@@ -16,6 +16,7 @@ Here are key skills I've developed, showcased through projects I've worked on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| 23 Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
 | 24 SQL Query Optimization and Data Filtering  | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a>|
 |27  Python Programming and Automation          | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a> |
 <!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
