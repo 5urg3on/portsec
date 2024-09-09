@@ -16,10 +16,11 @@ Here are key skills I've developed, showcased through projects I've worked on.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 21 Conducting Security Audit | <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Controls and compliance checklist</a> |
-| 22 Incident Report Analysis | <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Incident report analysis</a> |
-| 23 Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
-| 24 SQL Query Optimization and Data Filtering  | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a>|
+| 21 Incident Handling and Reporting | <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Phishing Incident Response and Alert Ticketing</a> |
+| Conducting Security Audit | <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Controls and compliance checklist</a> |
+| Incident Report Analysis | <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Incident report analysis</a> |
+|  Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
+|  SQL Query Optimization and Data Filtering  | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a>|
 |27  Python Programming and Automation          | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a> |
 <!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -94,6 +95,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 </div>-->
 
 ## Projects
+- Phishing Incident Response and Alert Ticketing <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a> 
 - Controls and compliance checklist <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
 - Incident report analysis: <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
 - File permissions in Linux: <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
