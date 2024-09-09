@@ -86,8 +86,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>-->
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 
 ## Projects
 - Phishing Incident Response and Alert Ticketing <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a> 
