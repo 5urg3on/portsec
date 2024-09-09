@@ -1,5 +1,7 @@
 # Hello, I'm Sylvester I. Baruch
 <a href="https://www.linkedin.com/in/sylvesterbaruch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sylvesteraladejana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ## Brief Introduction
 
