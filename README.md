@@ -14,14 +14,21 @@ With a strong foundation in IT and web development, complemented by the Google C
 ## Skills
 Here are key skills I've developed, showcased through projects I've worked on.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| 16 Incident Handling and Reporting | <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Phishing Incident Response and Alert Ticketing</a> |
-| Conducting Security Audit | <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Controls and compliance checklist</a> |
-| Incident Report Analysis | <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Incident report analysis</a> |
-|  Linux File Permissions | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File permissions in Linux</a> |
-|  SQL Query Optimization and Data Filtering  | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply filters to SQL queries</a>|
-|Python Programming and Automation          | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm-for-file-updates-in-Python</a> |
+| Skill                                | Project Link                                                                                                                                                                                                                               |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Incident Handling and Reporting      | <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Phishing Incident Response and Alert Ticketing</a>                            |
+| Conducting Security Audit            | <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Controls and Compliance Checklist</a>                                          |
+| Incident Report Analysis             | <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Incident Report Analysis</a>                                                  |
+| Linux File Permissions               | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File Permissions in Linux</a>                                                 |
+| SQL Query Optimization and Filtering | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply Filters to SQL Queries</a>                                              |
+| Python Programming and Automation    | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm for File Updates in Python</a>                                        |
+| SOC Incident Analysis and Response   | [Digiss SOC Hands-On Project - LAB 1 & LAB 2](#digiss-soc-hands-on-project)                                                                                                                         |
+| Malware Analysis and Response        | [Digiss SOC Hands-On Project - LAB 1, Scenario 6](#digiss-soc-hands-on-project)                                                                                                                     |
+| Reverse Shell Detection and Analysis | [Digiss SOC Hands-On Project - LAB 1, Scenario 9](#digiss-soc-hands-on-project)                                                                                                                     |
+| Data Breach Notification Handling    | [Digiss SOC Hands-On Project - LAB 2, Exercise 1](#digiss-soc-hands-on-project)                                                                                                                     |
+| Phishing Email Response              | [Digiss SOC Hands-On Project - LAB 2, Exercise 2](#digiss-soc-hands-on-project)                                                                                                                     |
+| Ransomware Incident Management       | [Digiss SOC Hands-On Project - LAB 2, Exercise 4](#digiss-soc-hands-on-project)                                                                                                                     |
+
 
 
 
@@ -110,4 +117,5 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Exercise 5: Responding to a Missing Laptop Incident 
 
 ## Home LAB Hands-On Project
-- [Apply Filters to SQL Queries](https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
+- [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
