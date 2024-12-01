@@ -117,7 +117,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Lab 3_Scenario 3: Investigating Reconnaissance Activities using Wazuh
 - Lab 4_Scenario 4: Investigating Unauthorized Access Attempts using Wazuh
 - Lab 5_Scenario 5: External Attack Against a Webserver using Wazuh
-- Lab 6_Scenario 6: Malware Detection, Analysis, and Response using Wazuh
+- Lab 6_Scenario 6: Malware Detection, Analysis, and Response using Joe Sandbox Cloud
 - Lab 7_Scenario 7: Researching Suspicious Historical Events using Wazuh
 - Lab 8_Scenario 8: Investigating Data Exfiltration Activity using Wireshark
 - Lab 9_Scenario 9: Detection and Analysis of Reverse Shell Traffic using Wireshark
