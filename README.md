@@ -1,4 +1,5 @@
 # Hello, I'm Sylvester I. Baruch
+You can connect with me on: 
 <a href="https://www.linkedin.com/in/sylvesterbaruch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sylvesteraladejana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -75,6 +76,10 @@ Here are some of the tools I'm proficient with:
 ## Certifications
 Here are the certifications I've earned, reflecting my commitment to advancing my expertise and staying current in the cybersecurity field.
 <div>
+<!-- CompTIA Security+ -->
+<a href="https://www.credly.com/badges/example-comptia-security-plus-badge" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA_Security+-F04E23?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+"/>
+</a>
 <!-- Google Cybersecurity Certificate Program Badge -->
 <a href="https://www.credly.com/badges/ee63515e-1d58-4dfc-ad35-b1588e88d534/" target="_blank">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate"/>
