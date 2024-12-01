@@ -60,7 +60,7 @@ Here are some of the tools I'm proficient with:
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-### IAM (Identity and Access Management) - Digiss LLC
+### IAM (Identity and Access Management)
 <div>
     <img src="https://img.shields.io/badge/-JumpCloud-6C38B1?&style=for-the-badge&logo=JumpCloud&logoColor=white" />
 
