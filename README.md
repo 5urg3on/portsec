@@ -80,13 +80,34 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 
 </div>
             
-
 ## Projects
-- Phishing Incident Response and Alert Ticketing <a href="https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a> 
-- Controls and compliance checklist <a href="https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
-- Incident report analysis: <a href="https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
-- File permissions in Linux: <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
-- Algorithm-for-file-updates-in-Python: <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
-- Apply filters to SQL queries: <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">View Project</a>
-            <!-- - Detection Lab
-            - SOC Automation Project -->
+
+- [Phishing Incident Response and Alert Ticketing](https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [Controls and Compliance Checklist](https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [Incident Report Analysis](https://docs.google.com/document/d/1l5tMJfnHp59wZSGmJfE8NYs-dmRZFjLh/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [File Permissions in Linux](https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [Algorithm for File Updates in Python](https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+- [Apply Filters to SQL Queries](https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
+
+## Digiss SOC Hands-On Project
+
+### LAB 1
+- Lab 1_Scenario 1: Investigating Unauthorized Changes
+- Lab 2_Scenario 2: Investigating Suspected Command Execution
+- Lab 3_Scenario 3: Investigating Reconnaissance Activities - 
+- Lab 4_Scenario 4: Investigating Unauthorized Access Attempts 
+- Lab 5_Scenario 5: External Attack Against a Webserver
+- Lab 6_Scenario 6: Malware Detection, Analysis, and Response
+- Lab 7_Scenario 7: Researching Suspicious Historical Events
+- Lab 8_Scenario 8: Investigating Data Exfiltration Activity 
+- Lab 9_Scenario 9: Detection and Analysis of Reverse Shell Traffic
+
+### LAB 2
+- Exercise 1: Data Breach Notification by an External Party
+- Exercise 2: Responding to a Phishing E-mail Storm 
+- Exercise 3: Client-Side Attack - 
+- Exercise 4: Ransomware Defense and Ransom Payment Decision 
+- Exercise 5: Responding to a Missing Laptop Incident 
+
+## Home LAB Hands-On Project
+- [Apply Filters to SQL Queries](https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
