@@ -30,6 +30,7 @@ Here are key skills I've developed, showcased through projects I've worked on.
 | Data Breach Notification Handling    | [Digiss SOC Hands-On Project - LAB 2, Exercise 1](#digiss-soc-hands-on-project)                                                                                                                     |
 | Phishing Email Response              | [Digiss SOC Hands-On Project - LAB 2, Exercise 2](#digiss-soc-hands-on-project)                                                                                                                     |
 | Ransomware Incident Management       | [Digiss SOC Hands-On Project - LAB 2, Exercise 4](#digiss-soc-hands-on-project)                                                                                                                     |
+| IAM (Identity and Access Management)  | Digiss LLC
 
 
 
@@ -53,9 +54,15 @@ Here are some of the tools I'm proficient with:
 <div>
     <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Netskope-0072E4?&style=for-the-badge&logo=Netskope&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2D2D2D?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+### IAM (Identity and Access Management) - Digiss LLC
+<div>
+    <img src="https://img.shields.io/badge/-JumpCloud-6C38B1?&style=for-the-badge&logo=JumpCloud&logoColor=white" />
 
 </div>
 
