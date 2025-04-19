@@ -91,6 +91,11 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 <a href="https://www.credly.com/badges/example-apisec-certified-practitioner-badge" target="_blank">
   <img src="https://img.shields.io/badge/-APISec_Certified_Practitioner-0052CC?&style=for-the-badge&logo=vercel&logoColor=white" alt="APISec Certified Practitioner"/>
 </a>
+
+ <!-- ISO 270001 Lead Auditor -->
+<a href="https://www.credly.com/badges/example-iso-27001-lead-auditor-badge" target="_blank">
+  <img src="https://img.shields.io/badge/-ISO%2FIEC_27001_Lead_Auditor-2E8B57?&style=for-the-badge&logo=security&logoColor=white" alt="ISO/IEC 27001 Lead Auditor"/>
+</a>
 <!-- Google Cybersecurity Certificate Program Badge -->
 <a href="https://www.credly.com/badges/ee63515e-1d58-4dfc-ad35-b1588e88d534/" target="_blank">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate"/>
