@@ -9,9 +9,8 @@ You can connect with me on: <br>
 
 Over the last six years, I have worked in IT, building various web applications to solve real-world problems in sectors such as Education Technology (EdTech), eCommerce, Real Estate, multi-vendor solutions, and Human Resource applications. I enjoy creating solutions that work and help both the business and the customers they serve. Time management is crucial to me, and I ensure all projects are delivered within the agreed timeframe.
 
-## Objective
-
-With a strong foundation in IT and web development, complemented by the Google Cybersecurity Certificate Program, I am now focused on advancing as a SOC Analyst. I am passionate about protecting businesses and the people they serve by enhancing security operations, managing incidents, and ensuring regulatory compliance, all while leveraging my experience in web development and cybersecurity.
+## Bio
+I am a passionate and dedicated Cybersecurity Engineer focused on ensuring robust digital security solutions. I have honed my skills to identify, assess, and mitigate security risks across diverse networks, systems, and applications. My expertise includes proactive vulnerability discovery through advanced penetration testing, allowing me to identify potential security gaps before malicious actors can exploit them. I specialize in securing IT infrastructures and implementing advanced security protocols to protect sensitive data. When I'm not focused on cybersecurity, I dedicate my time to web application development, code review and technical writing.
 
 ## Skills
 Here are key skills I've developed, showcased through projects I've worked on.
