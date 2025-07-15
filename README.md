@@ -10,7 +10,7 @@ You can connect with me on: <br>
 Over the last six years, I have worked in IT, building various web applications to solve real-world problems in sectors such as Education Technology (EdTech), eCommerce, Real Estate, multi-vendor solutions, and Human Resource applications. I enjoy creating solutions that work and help both the business and the customers they serve. Time management is crucial to me, and I ensure all projects are delivered within the agreed timeframe.
 
 ## Bio
-I am a passionate and dedicated Cybersecurity Engineer focused on ensuring robust digital security solutions. I have honed my skills to identify, assess, and mitigate security risks across diverse networks, systems, and applications. My expertise includes proactive vulnerability discovery through advanced penetration testing, allowing me to identify potential security gaps before malicious actors can exploit them. I specialize in securing IT infrastructures and implementing advanced security protocols to protect sensitive data. When I'm not focused on cybersecurity, I dedicate my time to web application development, code review and technical writing.
+I am a dedicated Cybersecurity Engineer focused on ensuring robust digital security solutions. My expertise includes proactive vulnerability discovery through advanced penetration testing, allowing me to identify potential security gaps before malicious actors can exploit them. I specialize in securing IT infrastructures and implementing advanced security protocols to protect sensitive data. When I am not focused on cybersecurity, I dedicate my time to automation and secure code review.
 
 ## Skills
 Here are key skills I've developed, showcased through projects I've worked on.
@@ -23,13 +23,13 @@ Here are key skills I've developed, showcased through projects I've worked on.
 | Linux File Permissions               | <a href="https://docs.google.com/document/d/12q5bKciDyzGo3FS_HHkVGga2noJS5PYC/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">File Permissions in Linux</a>                                                 |
 | SQL Query Optimization and Filtering | <a href="https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Apply Filters to SQL Queries</a>                                              |
 | Python Programming and Automation    | <a href="https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true" target="_blank">Algorithm for File Updates in Python</a>                                        |
-| SOC Incident Analysis and Response   | [Digiss SOC Hands-On Project - LAB 1 & LAB 2](#digiss-soc-hands-on-project)                                                                                                                         |
-| Malware Analysis and Response        | [Digiss SOC Hands-On Project - LAB 1, Scenario 6](#digiss-soc-hands-on-project)                                                                                                                     |
-| Reverse Shell Detection and Analysis | [Digiss SOC Hands-On Project - LAB 1, Scenario 9](#digiss-soc-hands-on-project)                                                                                                                     |
-| Data Breach Notification Handling    | [Digiss SOC Hands-On Project - LAB 2, Exercise 1](#digiss-soc-hands-on-project)                                                                                                                     |
-| Phishing Email Response              | [Digiss SOC Hands-On Project - LAB 2, Exercise 2](#digiss-soc-hands-on-project)                                                                                                                     |
-| Ransomware Incident Management       | [Digiss SOC Hands-On Project - LAB 2, Exercise 4](#digiss-soc-hands-on-project)                                                                                                                     |
-| IAM (Identity and Access Management)  | Digiss LLC
+| SOC Incident Analysis and Response   | [SOC Hands-On Project - LAB 1 & LAB 2](#digiss-soc-hands-on-project)                                                                                                                         |
+| Malware Analysis and Response        | [SOC Hands-On Project - LAB 1, Scenario 6](#soc-hands-on-project)                                                                                                                     |
+| Reverse Shell Detection and Analysis | [SOC Hands-On Project - LAB 1, Scenario 9](#soc-hands-on-project)                                                                                                                     |
+| Data Breach Notification Handling    | [SOC Hands-On Project - LAB 2, Exercise 1](#soc-hands-on-project)                                                                                                                     |
+| Phishing Email Response              | [SOC Hands-On Project - LAB 2, Exercise 2](#soc-hands-on-project)                                                                                                                     |
+| Ransomware Incident Management       | [SOC Hands-On Project - LAB 2, Exercise 4](#soc-hands-on-project)                                                                                                                     |
+| IAM (Identity and Access Management)  | IAM
 
 
 
@@ -107,6 +107,11 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
   <img src="https://img.shields.io/badge/-GitHub_Advanced_Security-181717?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Advanced Security"/>
 </a>
 
+<!-- AWS Certified Cloud Practitioner Badge -->
+<a href="https://www.credly.com/earner/earned/badge/58b55ff3-a234-440d-a52d-ed3fc4c3e6e6" target="_blank">
+  <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+</a>
+
 </div>
             
 ## Projects
@@ -118,7 +123,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - [Algorithm for File Updates in Python](https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
 - [Apply Filters to SQL Queries](https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
 
-## Digiss SOC Hands-On Project
+## SOC Hands-On Project
 
 ### LAB 1
 - Lab 1_Scenario 1: Investigating Unauthorized Changes using Wazuh
@@ -138,9 +143,12 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Exercise 4: Ransomware Defense and Ransom Payment Decision 
 - Exercise 5: Responding to a Missing Laptop Incident 
 
-## Home LAB Hands-On Project
+## Other Hands-On Project
 - [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
 - [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
-
-## The Cyber Mentor [TCM] Hands-On Project
+- Project: Phishing Campaign Setup with Gophish
+- Project: Endpoint Security Monitoring: Integrating Wazuh SIEM with EDR for Windows Systems
+- How to Deploy Keycloak for Identity and Access Management (IAM) for Wazuh
+- AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
+- Leveraging SpiderFoot for Offensive and Defensive OSINT Operations(https://tinyurl.com/3s6vkhj6)
 - 
