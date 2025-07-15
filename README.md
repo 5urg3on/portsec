@@ -155,9 +155,9 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 ## Other Hands-On Project
 - [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
 - [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
-- Project: Phishing Campaign Setup with Gophish
-- Project: Endpoint Security Monitoring: Integrating Wazuh SIEM with EDR for Windows Systems
+- Phishing Campaign Setup with Gophish
+- Endpoint Security Monitoring with Wazuh SIEM
+- Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
 - How to Deploy Keycloak for Identity and Access Management (IAM) for Wazuh
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
 - [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
-- 
