@@ -161,6 +161,6 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Phishing Campaign Setup with Gophish
 - Endpoint Security Monitoring with Wazuh SIEM
 - Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
-- How to Deploy Keycloak for Identity and Access Management (IAM) for Wazuh
+- Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
 - [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
