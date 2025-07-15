@@ -160,6 +160,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
 - Phishing Campaign Setup with Gophish
 - Endpoint Security Monitoring with Wazuh SIEM
+- Configuring and Deploying SentinelOne for Enterprise Endpoint Protection
 - Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
 - Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
