@@ -53,11 +53,19 @@ Here are some of the tools I'm proficient with:
 <div>
     <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-Netskope-0072E4?&style=for-the-badge&logo=Netskope&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2D2D2D?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
+### DLP: Data Leakage Prevention
+
+<div>
+    
+<img src="https://img.shields.io/badge/-Netskope-2D9CDB?&style=for-the-badge&logo=Netskope&logoColor=white" />
+
+</div>
+
 
 ### IAM (Identity and Access Management)
 <div>
