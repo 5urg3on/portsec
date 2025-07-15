@@ -62,6 +62,7 @@ Here are some of the tools I'm proficient with:
 ### IAM (Identity and Access Management)
 <div>
     <img src="https://img.shields.io/badge/-JumpCloud-6C38B1?&style=for-the-badge&logo=JumpCloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Keycloak-0072C6?&style=for-the-badge&logo=Keycloak&logoColor=white" />
 
 </div>
 
@@ -150,5 +151,5 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Project: Endpoint Security Monitoring: Integrating Wazuh SIEM with EDR for Windows Systems
 - How to Deploy Keycloak for Identity and Access Management (IAM) for Wazuh
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
-- Leveraging SpiderFoot for Offensive and Defensive OSINT Operations(https://tinyurl.com/3s6vkhj6)
+- [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
 - 
