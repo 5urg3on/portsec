@@ -9,7 +9,6 @@
 
 ---
 
-# **Content:**
 
 </aside>
 
@@ -78,7 +77,7 @@ SpiderFoot is a versatile **open source OSINT automation tool** that can be used
 
 # More Use Cases
 
-![Screenshot 2025-07-15 12.00.27 AM.png](attachment:d5cbd965-df3b-404b-8c86-e640b75cd4d1:Screenshot_2025-07-15_12.00.27_AM.png)
+![SpiderFoot_Usecase](img/spiderfootusecase.png)
 
 ## **SpiderFoot Supported Scan Targets**
 
