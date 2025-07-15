@@ -92,6 +92,12 @@ Here are some of the tools I'm proficient with:
 ## Certifications
 Here are the certifications I've earned, reflecting my commitment to advancing my expertise and staying current in the cybersecurity field.
 <div>
+
+<!-- Google Cybersecurity Certificate Program Badge -->
+<a href="https://www.credly.com/badges/ee63515e-1d58-4dfc-ad35-b1588e88d534/" target="_blank">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate"/>
+</a>
+
 <!-- CompTIA Security+ -->
 <a href="https://www.credly.com/badges/example-comptia-security-plus-badge" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA_Security+-F04E23?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+"/>
@@ -105,10 +111,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 <a href="https://www.credly.com/badges/example-iso-27001-lead-auditor-badge" target="_blank">
   <img src="https://img.shields.io/badge/-ISO%2FIEC_27001_Lead_Auditor-2E8B57?&style=for-the-badge&logo=security&logoColor=white" alt="ISO/IEC 27001 Lead Auditor"/>
 </a>
-<!-- Google Cybersecurity Certificate Program Badge -->
-<a href="https://www.credly.com/badges/ee63515e-1d58-4dfc-ad35-b1588e88d534/" target="_blank">
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate"/>
-</a>
+
     
 <a href="https://www.linkedin.com/learning/certificates/0eba07fe98cd6d0ff0a0de5cc4b0341577c469ce9e0ea1d52cf16cc8313047c4/" target="_blank">
   <img src="https://img.shields.io/badge/-Career_Essentials_in_Cybersecurity-0072b1?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Career Essentials in Cybersecurity by Microsoft and LinkedIn"/> </a>
