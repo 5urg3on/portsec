@@ -5,13 +5,13 @@ You can connect with me on: <br>
 <a href="mailto:yourhelpdeskme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-## Brief Introduction
-
-Over the last six years, I have worked in IT, building various web applications to solve real-world problems in sectors such as Education Technology (EdTech), eCommerce, Real Estate, multi-vendor solutions, and Human Resource applications. I enjoy creating solutions that work and help both the business and the customers they serve. Time management is crucial to me, and I ensure all projects are delivered within the agreed timeframe. In the summer of 2024, I began transitioning into cybersecurity with the Google Cybersecurity Certificate program, building on my IT experience. Since then, I have worked on different projects and earned a couple of certificates that make me stand out.
-
 ## Bio
 I am a Security Engineer specializing in Application Security and Cloud Security. I work on penetration testing, vulnerability assessment, and secure code review to identify and address security gaps before they can be exploited. I have experience securing diverse infrastructures for multiple clients, applying practical and effective strategies to protect systems and data. I also develop automation solutions that make security processes faster, more consistent, and easier to manage.
 
+
+## Brief Introduction
+
+Over the last six years, I have worked in IT, building various web applications to solve real-world problems in sectors such as Education Technology (EdTech), eCommerce, Real Estate, multi-vendor solutions, and Human Resource applications. I enjoy creating solutions that work and help both the business and the customers they serve. Time management is crucial to me, and I ensure all projects are delivered within the agreed timeframe. In the summer of 2024, I began transitioning into cybersecurity with the Google Cybersecurity Certificate program, building on my IT experience. Since then, I have worked on different projects and earned a couple of certificates that make me stand out.
 
 ## Skills
 Here are key skills I've developed, showcased through projects I've worked on.
