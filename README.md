@@ -124,6 +124,17 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
   <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
+<!-- eJPT Badge -->
+<a href="https://certs.ine.com/fe6a1abf-ef05-4c74-88b6-00ea08e382be" target="_blank">
+  <img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=protonvpn&logoColor=white" alt="eLearnSecurity Junior Penetration Tester"/>
+</a>
+
+<!-- INE ICCA Badge -->
+<a href="https://certs.ine.com/4cd9512e-e145-484c-ba3d-3a1d986b110c#acc.Q0WMT8BZ" target="_blank">
+  <img src="https://img.shields.io/badge/-INE_ICCA-FF6600?&style=for-the-badge&logo=icloud&logoColor=white" alt="INE Certified Cloud Associate"/>
+</a>
+
+
 </div>
             
 ## Projects
