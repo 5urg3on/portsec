@@ -10,7 +10,8 @@ You can connect with me on: <br>
 Over the last six years, I have worked in IT, building various web applications to solve real-world problems in sectors such as Education Technology (EdTech), eCommerce, Real Estate, multi-vendor solutions, and Human Resource applications. I enjoy creating solutions that work and help both the business and the customers they serve. Time management is crucial to me, and I ensure all projects are delivered within the agreed timeframe. In the summer of 2024, I began transitioning into cybersecurity with the Google Cybersecurity Certificate program, building on my IT experience. Since then, I have worked on different projects and earned a couple of certificates that make me stand out.
 
 ## Bio
-I am a dedicated Cybersecurity Engineer focused on ensuring robust digital security solutions. My expertise includes proactive vulnerability discovery through advanced penetration testing, allowing me to identify potential security gaps before malicious actors can exploit them. I specialize in securing IT infrastructures and implementing advanced security protocols to protect sensitive data. When I am not focused on cybersecurity, I dedicate my time to automation and secure code review.
+I am a Security Engineer specializing in Application Security and Cloud Security. I work on penetration testing, vulnerability assessment, and secure code review to identify and address security gaps before they can be exploited. I have experience securing diverse infrastructures for multiple clients, applying practical and effective strategies to protect systems and data. I also develop automation solutions that make security processes faster, more consistent, and easier to manage.
+
 
 ## Skills
 Here are key skills I've developed, showcased through projects I've worked on.
