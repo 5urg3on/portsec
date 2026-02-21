@@ -68,6 +68,11 @@ Here are some of the tools I'm proficient with:
 
 </div>
 
+### EDR: Endpoint Detection and Response
+
+<div>
+<img src="https://img.shields.io/badge/-SentinelOne-6E00FF?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+</div>
 
 ### IAM (Identity and Access Management)
 <div>
@@ -138,7 +143,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 
 <!-- Google Cloud Professional Cloud Architect Badge -->
 <a href="https://www.credly.com/badges/5107b53a-30a2-45ca-a2b8-e4a70bd715b3/" target="_blank">
-  <img src="https://img.shields.io/badge/-GCP_Professional_Cloud_Architect-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="Google Cloud Professional Cloud Architect"/>
+  <img src="https://img.shields.io/badge/-Google_Professional_Cloud_Architect-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="Google Cloud Professional Cloud Architect"/>
 </a>
 
 
