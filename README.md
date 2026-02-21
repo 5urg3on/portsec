@@ -38,6 +38,7 @@ Here are key skills I've developed, showcased through projects I've worked on.
 
 ## Tools
 Here are some of the tools I'm proficient with:
+I focus on understanding the underlying technologies, which allows me to quickly adapt to new tools and platforms rather than being limited to a specific vendor or solution.
 
 ### Network
 <div>
