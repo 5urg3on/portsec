@@ -157,7 +157,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Configuring and Deploying SentinelOne for Enterprise Endpoint Protection
 - Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
 - Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
-- Automated Enterprise Patch Management with :contentReference[oaicite:0]{index=0} and :contentReference[oaicite:1]{index=1} Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
+- Automated Enterprise Patch Management with Action1 and JumpCloud Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
 - Atlantis Setup in Docker with AWS Lightsail
 - [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
