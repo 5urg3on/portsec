@@ -6,7 +6,8 @@ You can connect with me on: <br>
 
 
 ## Bio
-I am a Security Engineer specializing in Application Security and Cloud Security. I work on penetration testing, vulnerability assessment, and secure code review to identify and address security gaps before they can be exploited. I have experience securing diverse infrastructures for multiple clients, applying practical and effective strategies to protect systems and data. I also develop automation solutions that make security processes faster, more consistent, and easier to manage.
+Security Engineer with 1+ years of specialized experience in Cloud Security Architecture, Application Security(Web, API, and Mobile), Security Operations Engineering, and Penetration Testing within MSSP environments. Google Cloud Professional Architect certified with proven expertise in securing multi-cloud infrastructures (GCP/AWS), engineering SIEM solutions, conducting vulnerability assessments, and implementing security controls across multiple client environments in Banking, Fintech, Oil & Gas, Solar & Energy, and EdTech sectors. Skilled in building automation tools and detection rules that streamline security operations and enhance organizational security posture.
+
 
 
 ## Brief Introduction
@@ -135,10 +136,28 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
   <img src="https://img.shields.io/badge/-INE_ICCA-FF6600?&style=for-the-badge&logo=icloud&logoColor=white" alt="INE Certified Cloud Associate"/>
 </a>
 
+<!-- Google Cloud Professional Cloud Architect Badge -->
+<a href="https://www.credly.com/badges/5107b53a-30a2-45ca-a2b8-e4a70bd715b3/" target="_blank">
+  <img src="https://img.shields.io/badge/-GCP_Professional_Cloud_Architect-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="Google Cloud Professional Cloud Architect"/>
+</a>
+
 
 </div>
+
+## Project
+- [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
+- [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
+- Phishing Campaign Setup with Gophish
+- Endpoint Security Monitoring with Wazuh SIEM
+- Configuring and Deploying SentinelOne for Enterprise Endpoint Protection
+- Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
+- Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
+- * Automated Enterprise Patch Management with :contentReference[oaicite:0]{index=0} and :contentReference[oaicite:1]{index=1} Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
+- AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
+- Atlantis Setup in Docker with AWS Lightsail
+- [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
             
-## Projects
+## Other Projects
 
 - [Phishing Incident Response and Alert Ticketing](https://docs.google.com/document/d/1fooEleXt_qqTvYUrNfyC8ey8CTsDpRiQ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
 - [Controls and Compliance Checklist](https://docs.google.com/document/d/1wVtDFs1sljbqF2jcKxOmhGsrwYoRKwDv/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
@@ -147,34 +166,23 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - [Algorithm for File Updates in Python](https://docs.google.com/document/d/1CheOBuvVQx7rsuAxKN1M1pNRVG8E2ndJ/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
 - [Apply Filters to SQL Queries](https://docs.google.com/document/d/1zJQpZzIlQtYO-aUv3dvCrxn811lqiA_e/edit?usp=sharing&ouid=104542188657826449520&rtpof=true&sd=true)
 
-## SOC Hands-On Project
+## SOC Incident Response Cases
 
-### LAB 1
-- Lab 1_Scenario 1: Investigating Unauthorized Changes using Wazuh
-- Lab 2_Scenario 2: Investigating Suspected Command Execution using Wazuh
-- Lab 3_Scenario 3: Investigating Reconnaissance Activities using Wazuh
-- Lab 4_Scenario 4: Investigating Unauthorized Access Attempts using Wazuh
-- Lab 5_Scenario 5: External Attack Against a Webserver using Wazuh
-- Lab 6_Scenario 6: Malware Detection, Analysis, and Response using Joe Sandbox Cloud
-- Lab 7_Scenario 7: Researching Suspicious Historical Events using Wazuh
-- Lab 8_Scenario 8: Investigating Data Exfiltration Activity using Wireshark
-- Lab 9_Scenario 9: Detection and Analysis of Reverse Shell Traffic using Wireshark
+### Scenarios Cases
+-  Investigating Unauthorized Changes using Wazuh
+-  Investigating Suspected Command Execution using Wazuh
+-  Investigating Reconnaissance Activities using Wazuh
+-  Investigating Unauthorized Access Attempts using Wazuh
+-  External Attack Against a Webserver using Wazuh
+-  Malware Detection, Analysis, and Response using Joe Sandbox Cloud
+-  Researching Suspicious Historical Events using Wazuh
+- Investigating Data Exfiltration Activity using Wireshark
+- Detection and Analysis of Reverse Shell Traffic using Wireshark
 
-### LAB 2
+### Management Team Presentation - Critical Thinking
 - Exercise 1: Data Breach Notification by an External Party
 - Exercise 2: Responding to a Phishing E-mail Storm 
-- Exercise 3: Client-Side Attack - 
+- Exercise 3: Client-Side Attack
 - Exercise 4: Ransomware Defense and Ransom Payment Decision 
 - Exercise 5: Responding to a Missing Laptop Incident 
 
-## Other Hands-On Project
-- [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
-- [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
-- Phishing Campaign Setup with Gophish
-- Endpoint Security Monitoring with Wazuh SIEM
-- Configuring and Deploying SentinelOne for Enterprise Endpoint Protection
-- Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
-- Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
-- AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
-- Atlantis Setup in Docker with AWS Lightsail
-- [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
