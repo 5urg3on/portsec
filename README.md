@@ -152,6 +152,7 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 
 ## Project
 - Enterprise Identity Management: Implementing SSO for Google Workspace with JumpCloud IdP for Centralized Authentication
+- Microsoft 365 to Google Workspace Migration: Complete Email and SharePoint File Migration with Zero Data Loss
 - Automated Enterprise Patch Management with Action1 and JumpCloud Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
 - [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
 - [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
