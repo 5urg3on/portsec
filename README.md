@@ -151,6 +151,8 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 </div>
 
 ## Project
+- Enterprise Identity Management: Implementing SSO for Google Workspace with JumpCloud IdP for Centralized Authentication
+- Automated Enterprise Patch Management with Action1 and JumpCloud Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
 - [Network-Based Firewall using pfSense](https://medium.com/@5urg3on/home-lab-network-based-firewall-using-pfsense-6faf1d007866)
 - [Simulation of Network Attack, Defense, and Incident Response](https://medium.com/@5urg3on/home-lab-simulation-of-network-attack-defense-and-incident-response-a29862a6ef1b)
 - Automated Phishing Campaign Setup with Gophish and Google Cloud (GCP)
@@ -158,7 +160,6 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 - Configuring and Deploying SentinelOne for Enterprise Endpoint Protection
 - Endpoint Security Monitoring: Integrating Wazuh SIEM with SentinelOne EDR for Windows Systems
 - Deploying Keycloak for Identity and Access Management (IAM) for Wazuh
-- Automated Enterprise Patch Management with Action1 and JumpCloud Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
 - AutoCTI: Automated Threat Intelligence Summarizer & Slack Notifier using article source, VirusTotal, AbuseIPDB and IDR
 - Atlantis Setup in Docker with AWS Lightsail
 - [Leveraging SpiderFoot for Offensive and Defensive OSINT Operations](https://tinyurl.com/3s6vkhj6)
