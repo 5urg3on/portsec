@@ -74,6 +74,8 @@ All three should have green status indicators. This is your infrastructure basel
 Now you'll add a CPU utilization chart. This is foundational: CPU spikes can indicate resource exhaustion, malicious activity, or misconfiguration.
 
 1. Click **Add widget** > select **Line** chart
+![IMAGE: Metrics explorer interface](img/3.png)
+
 2. Name the widget "My Chart"
 3. In the metric selector, type "CPU utilization"
 4. Select **VM Instance > Instance > CPU utilization** and click **Apply**
@@ -94,7 +96,6 @@ If you want to explore metrics without adding them to a dashboard:
 2. Select metrics and experiment
 3. This is useful for ad-hoc troubleshooting without cluttering your dashboard
 
-![IMAGE: Metrics explorer interface](img/3.png)
 
 ---
 
@@ -114,7 +115,7 @@ The scenario: CPU usage spikes to 100% on one of your VMs. Without an alert, you
 6. Set **Rolling window** to 1 min (detect fast spikes)
 7. Click **Next**
 
-![IMAGE: First condition setup](img/4.png)
+![IMAGE: First condition setup](img/5.png)
 
 ### Setting the Threshold
 
@@ -134,7 +135,7 @@ Alerts are more powerful when you stack conditions. This reduces false positives
 4. Set threshold to 20 (above threshold)
 5. Click **Next**
 
-![IMAGE: Second condition configuration](img/5.png)
+![IMAGE: Second condition configuration](img/6.png)
 
 ### Multi-Condition Logic
 
@@ -154,7 +155,6 @@ This means both metrics must breach their thresholds simultaneously for the aler
 1. Click **Notification Channels** dropdown
 2. Click **Manage Notification Channels**
 
-![IMAGE: Notification channels page opening](img/6.png)
 
 A new tab will open.
 
@@ -198,7 +198,6 @@ Example use case: All production web servers in one group. All database instance
 
 This group automatically pulls in any resource with "nginx" in its name. Right now, that's all three VMs. Cloud Monitoring generates a dashboard for this group automatically.
 
-![IMAGE: Group dashboard](img/9.png)
 
 **Why this matters for security:** You can now create group-level policies. One alert for "all production servers." If you add a fourth nginx VM, it's automatically included. Consistency at scale.
 
@@ -221,7 +220,8 @@ Uptime checks are also your first line of defense against service compromise. If
    - **Group:** VM instances
    - **Check Frequency:** 1 minute
 
-[IMAGE: Uptime check target configuration]
+![IMAGE: Uptime check target configuration](img/9.png)
+
 
 4. Click **Continue**
 
