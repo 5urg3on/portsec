@@ -49,7 +49,8 @@ You should see three instances listed:
 
 All three should have green status indicators. This is your infrastructure baseline.
 
-[IMAGE: Screenshot of VM instances list]
+![IMAGE: Screenshot of VM instances list](img/1.png)
+
 
 
 ---
@@ -66,7 +67,7 @@ All three should have green status indicators. This is your infrastructure basel
 4. Click **New Dashboard**
 5. Name it "Monitoring Dashboard"
 
-[IMAGE: Empty dashboard creation screen]
+![IMAGE: Empty dashboard creation screen](img/2.png)
 
 ### Adding Your First Chart
 
@@ -79,8 +80,6 @@ Now you'll add a CPU utilization chart. This is foundational: CPU spikes can ind
    - Note: If you can't find it, uncheck the "Active" filter
 5. Click **+ Add Filter** to explore filtering options (by instance name, zone, etc.)
 6. Click **Apply** to create the chart
-
-[IMAGE: Chart configuration screen]
 
 
 Your dashboard now shows CPU utilization across your VMs in real-time. This is what visibility looks like.
@@ -95,7 +94,7 @@ If you want to explore metrics without adding them to a dashboard:
 2. Select metrics and experiment
 3. This is useful for ad-hoc troubleshooting without cluttering your dashboard
 
-[IMAGE: Metrics explorer interface]
+![IMAGE: Metrics explorer interface](img/3.png)
 
 ---
 
@@ -115,7 +114,7 @@ The scenario: CPU usage spikes to 100% on one of your VMs. Without an alert, you
 6. Set **Rolling window** to 1 min (detect fast spikes)
 7. Click **Next**
 
-[IMAGE: First condition setup]
+![IMAGE: First condition setup](img/4.png)
 
 ### Setting the Threshold
 
@@ -135,7 +134,7 @@ Alerts are more powerful when you stack conditions. This reduces false positives
 4. Set threshold to 20 (above threshold)
 5. Click **Next**
 
-[IMAGE: Second condition configuration]
+![IMAGE: Second condition configuration](img/5.png)
 
 ### Multi-Condition Logic
 
@@ -155,7 +154,7 @@ This means both metrics must breach their thresholds simultaneously for the aler
 1. Click **Notification Channels** dropdown
 2. Click **Manage Notification Channels**
 
-[IMAGE: Notification channels page opening]
+![IMAGE: Notification channels page opening](img/6.png)
 
 A new tab will open.
 
@@ -174,7 +173,7 @@ A new tab will open.
 6. Click **Next**
 7. Review and click **Create Policy**
 
-[IMAGE: Alert policy confirmation]
+![IMAGE: Alert policy confirmation](img/7.png)
 
 Your alert is now live. When CPU usage on any of your VMs hits the threshold, you'll receive an email.
 
@@ -195,11 +194,11 @@ Example use case: All production web servers in one group. All database instance
 5. Click **Done**
 6. Click **Create**
 
-[IMAGE: Group creation screen]
+![IMAGE: Group creation screen](img/8.png)
 
 This group automatically pulls in any resource with "nginx" in its name. Right now, that's all three VMs. Cloud Monitoring generates a dashboard for this group automatically.
 
-[IMAGE: Group dashboard]
+![IMAGE: Group dashboard](img/9.png)
 
 **Why this matters for security:** You can now create group-level policies. One alert for "all production servers." If you add a fourth nginx VM, it's automatically included. Consistency at scale.
 
@@ -232,7 +231,7 @@ Uptime checks are also your first line of defense against service compromise. If
 2. Select your email notification channel
 3. Click **Continue**
 
-[IMAGE: Uptime check alert configuration]
+![IMAGE: Uptime check alert configuration](img/10.png)
 
 4. For **Title**, type "My Uptime check"
 5. Click **Test** to verify connectivity
@@ -249,7 +248,7 @@ The uptime check takes a few minutes to become active. Once it does, you'll rece
 
 When your alert fires, here's what lands in your inbox:
 
-[IMAGE: Alert email notification]
+![IMAGE: Alert email notification](img/11.png)
 
 This tells you:
 - Which policy triggered ("My Alert Policy")
