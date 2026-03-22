@@ -1,4 +1,4 @@
-# From Blind Spots to Real-Time Alerts: Monitoring, Alerting & Uptime Checks Observability with GCP
+# From Blind Spots to Real-Time Alerts: Monitoring, Alerting & Uptime Checks Observability with Google Cloud Platform
 
 ## The Blind Spot Problem
 
