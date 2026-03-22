@@ -151,6 +151,8 @@ Here are the certifications I've earned, reflecting my commitment to advancing m
 </div>
 
 ## Project
+- [Network Intelligence: Understanding Data Movement Across Your Cloud Infrastructure](https://medium.com/@5urg3on/image-firewall-rule-creation-62dd1d253ac5)
+- [From Blind Spots to Real-Time Alerts: Monitoring, Alerting & Uptime Checks Observability with Google Cloud Platform](https://github.com/5urg3on/portsec/blob/main/project/BlindSpotObservability/Blind%20Spots%20to%20Real-Time%20Alerts:%20Monitoring,%20Alerting%20&%20Uptime%20Checks%20Observability%20with%20GCP.md)
 - Enterprise Identity Management: Implementing SSO for Google Workspace with JumpCloud IdP for Centralized Authentication
 - Microsoft 365 to Google Workspace Migration: Complete Email and SharePoint File Migration with Zero Data Loss
 - Automated Enterprise Patch Management with Action1 and JumpCloud Integration for Proactive Vulnerability Remediation Achieving ~98% Reduction
