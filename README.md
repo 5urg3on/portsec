@@ -6,7 +6,7 @@ You can connect with me on: <br>
 
 
 ## Bio
-Security Engineer with 1+ years of specialized experience in Cloud Security Architecture, Application Security(Web, API, and Mobile), Security Operations Engineering, and Penetration Testing within MSSP environments. Google Cloud Professional Architect certified with proven expertise in securing multi-cloud infrastructures (GCP/AWS), engineering SIEM solutions, conducting vulnerability assessments, and implementing security controls across multiple client environments in Banking, Fintech, Oil & Gas, Solar & Energy, and EdTech sectors. Skilled in building automation tools and detection rules that streamline security operations and enhance organizational security posture.
+Security Engineer with specialized experience in Cloud Security Architecture, Application Security(Web, API, and Mobile), Security Operations Engineering, and Penetration Testing within MSSP environments. Google Cloud Professional Architect certified with proven expertise in securing multi-cloud infrastructures (GCP/AWS), engineering SIEM solutions, conducting vulnerability assessments, and implementing security controls across multiple client environments in Banking, Fintech, Oil & Gas, Solar & Energy, and EdTech sectors. Skilled in building automation tools and detection rules that streamline security operations and enhance organizational security posture.
 
 
 
